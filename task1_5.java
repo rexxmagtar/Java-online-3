@@ -11,7 +11,7 @@ public class task1_5 {
 
     public static void main(String[] args) {
 
-///Колво цифр в строке;
+///Убрать лишние пробелы;
 
         String str="   1   dsadad     2 3  31 2 ds d  ";
 
