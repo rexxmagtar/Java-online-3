@@ -11,7 +11,7 @@ public class task2_1 {
 
     public static void main(String[] args) {
 
-///Колво цифр в строке;
+///Максимально кол-во пробелов;
 
         String str="   1   dsadad     2 3  31 2 ds d  ";
 
