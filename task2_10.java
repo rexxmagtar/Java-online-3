@@ -9,7 +9,7 @@ public class task2_10 {
 
     public static void main(String[] args) {
 
-///Посчитать кол-во строчных и прописных букв
+///Посчитать кол-во предложений
 
         StringBuffer str = new StringBuffer("WHAT DEFINES YOUR SUCCESS?\n" +
                 "Every business is uniquely challenged by the pressures of digitization. " +
