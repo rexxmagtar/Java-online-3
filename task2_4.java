@@ -11,7 +11,7 @@ public class task2_4 {
 
     public static void main(String[] args) {
 
-///Проверить на палиндром;
+///Получить тортик из информатики;
 
         String str="информатика";
 
