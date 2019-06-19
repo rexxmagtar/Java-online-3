@@ -11,7 +11,7 @@ public class task1_4 {
 
     public static void main(String[] args) {
 
-///Колво цифр в строке;
+///Колво чисел в строке;
 
         String str="332or329893  2ds7lovo word slovo slovo 123";
 
